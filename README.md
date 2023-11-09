@@ -78,4 +78,4 @@ We welcome contributions from the community. Please create a pull request and ma
 
 ### License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/budistwn15/Inertia-React-Typescript-Starter/blob/master/LICENSE.md).
